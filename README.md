@@ -1,4 +1,4 @@
 #DataVisualisasi
 
-Visualisasi datasets penembakan fatal yang dilakukan polisi di Amerika Serikat sejak 2015.
-Sumber dataset: https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us
+Visualisasi datasets EDA on E-Commerce Shipping Data
+Sumber dataset: https://www.kaggle.com/datasets/prachi13/customer-analytics
